@@ -3,7 +3,7 @@ const client = new Discord.Client();
 console.log("ٍSpam Bot By itzZa1D , VM#8866");
 
 client.on("ready", () => {
-let channel =     client.channels.get("512401531392491553")
+let channel =     client.channels.get("512936937045360640")
 setInterval(function() {
 channel.send(`Venom is the Best`);
 }, 25)
